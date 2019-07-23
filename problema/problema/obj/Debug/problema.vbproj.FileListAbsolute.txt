@@ -1,0 +1,12 @@
+C:\Users\Estudiante\Desktop\problema\problema\bin\Debug\problema.exe.config
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.Form1.resources
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.Resources.resources
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\problema\problema\bin\Debug\problema.exe
+C:\Users\Estudiante\Desktop\problema\problema\bin\Debug\problema.pdb
+C:\Users\Estudiante\Desktop\problema\problema\bin\Debug\problema.xml
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.exe
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.xml
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.pdb
+C:\Users\Estudiante\Desktop\problema\problema\obj\Debug\problema.Form2.resources

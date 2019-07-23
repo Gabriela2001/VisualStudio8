@@ -1,0 +1,12 @@
+C:\Users\Estudiante\Desktop\impocar\impocar\bin\Debug\impocar.exe.config
+C:\Users\Estudiante\Desktop\impocar\impocar\bin\Debug\impocar.exe
+C:\Users\Estudiante\Desktop\impocar\impocar\bin\Debug\impocar.pdb
+C:\Users\Estudiante\Desktop\impocar\impocar\bin\Debug\impocar.xml
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.Form1.resources
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.Resources.resources
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.exe
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.xml
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.pdb
+C:\Users\Estudiante\Desktop\impocar\impocar\obj\Debug\impocar.Form2.resources

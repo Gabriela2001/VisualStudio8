@@ -1,0 +1,42 @@
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\bin\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.Resources.resources
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.NUMEROS.resources
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.edad.resources
+C:\Users\Estudiante\Desktop\ejercicio\ejercicio\obj\Debug\ejercicio.COMPRESION__Y_REPASO.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\bin\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.COMPRESION__Y_REPASO.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.edad.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.Resources.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.NUMEROS.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\ejercicio\ejercicio\obj\Debug\ejercicio.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\bin\Debug\ejercicio.xml
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.COMPRESION__Y_REPASO.resources
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.edad.resources
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.Resources.resources
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.NUMEROS.resources
+C:\Users\Estudiante\Desktop\movimiento\ejercicio\ejercicio\obj\Debug\ejercicio.vbproj.GenerateResource.Cache
